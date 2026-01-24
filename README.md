@@ -130,6 +130,6 @@ This project is open-source — feel free to use and modify it.
 
 ## ❤ Thanks
 
-Powered with n8n and Telegram Bot integrations — automate your conversations and workflows with ease!([n8n][3])
+Powered with n8n and Telegram Bot integrations — automate your conversations and workflows with ease!
 
 ```
